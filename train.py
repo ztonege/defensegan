@@ -15,6 +15,7 @@
 
 """The main class for training GANs."""
 
+
 import argparse
 import sys
 
